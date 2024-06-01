@@ -64,3 +64,5 @@ The sample test displays the inferential data placed numerically alongside the p
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+The concluding results are a totality of three combined analytical tests. The first is the plotted result displayed in the graphical results, which shows a drawn distinction of the median of both groups of information of the c39 and the c52 groups. The second is the numerical data display that posts two column of the gathered information into quadrants and shows the drastic distinction between two sets of grouped information. The final test is the comparative t.test which complies of the available data and compares it to the set hypothesis and the inference of its probability. In this arrangement we can conclude that the null hypothesis stands and that there is a clear distinction in the growth and cultivation of the cabbages and the relation to Vitamin C. 
