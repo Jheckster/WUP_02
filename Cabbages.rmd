@@ -54,6 +54,12 @@ In this stats chart you can see the numbers displayed on the top of each section
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
+  
+```{r}
+t.test(VitC~Cult,data=veggy)
+```
+  
+The sample test displays the inferential data placed numerically alongside the projected results, in this case our hypothesis paired with the probability. The means of the results are listed as the c39 group having 51.5, and the c52 group having 64.2. The probability of this result is calculated to be lass than a .00000003405 point likelihood. 
 
 # Discussion and Conclusion
 
