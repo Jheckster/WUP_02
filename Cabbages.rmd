@@ -35,14 +35,25 @@ veggy <- cabbages
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
+  
+The two boxes are positioned to show their numerical inference, and the top and bottom of each box places them at specific numbers for the smallest number and largest of their recorded date respectively. The c52 box is set higher than the c39 box. There is also a large black line in the center of each, this is the median of both sets of data. The c39 boxes median can be placed at around 51. The 352 box has a median at about 65. 
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+  
+In this stats chart you can see the numbers displayed on the top of each section. The ajoining number for each quadrant (Q1, Q2) equal for the third quadrant for the c39 column is 54.75. The first quadrant for the c52 column is 58. This shows that the smallest number of the third quadrant for our c39 row is not greater than the largest number for the c52 results. This is what our boxplot display shows.
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
-
 
 # Discussion and Conclusion
 
